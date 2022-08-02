@@ -1,0 +1,2 @@
+# EntityToDBService
+根据项目中的实体生成数据库和对应数据表
